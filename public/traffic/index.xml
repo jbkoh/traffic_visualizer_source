@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Traffic-rsses on Traffic Visualizer</title>
+    <link>http://localhost/traffic/index.xml</link>
+    <description>Recent content in Traffic-rsses on Traffic Visualizer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Dec 2016 23:05:28 -0800</lastBuildDate>
+    <atom:link href="http://localhost/traffic/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>index</title>
+      <link>http://localhost/traffic/</link>
+      <pubDate>Mon, 12 Dec 2016 23:05:28 -0800</pubDate>
+      
+      <guid>http://localhost/traffic/</guid>
+      <description>&lt;p&gt;TRAFFIC INDEX&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>test1</title>
+      <link>http://localhost/traffic/test1/</link>
+      <pubDate>Mon, 12 Dec 2016 23:04:08 -0800</pubDate>
+      
+      <guid>http://localhost/traffic/test1/</guid>
+      <description>&lt;p&gt;TRAFFIC 11111111111111111111111111&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
